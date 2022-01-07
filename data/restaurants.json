@@ -4,7 +4,7 @@
         "address": "jl.ekamai",
         "cuisine": "asian",
         "website": "https://www.github.com/aziemp66",
-        "description": "delicious"
+        "description": "anjay"
     },
     {
         "name": "Haiba",
@@ -12,5 +12,12 @@
         "cuisine": "bunuters",
         "website": "https://haiba.com",
         "description": "mantap"
+    },
+    {
+        "name": "Ledib",
+        "address": "Talang Pangeran",
+        "cuisine": "Jepang",
+        "website": "https://ledib.com",
+        "description": "amazing!!"
     }
 ]
